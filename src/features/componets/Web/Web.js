@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-export default function SubWeb({ content }) {
+export default function Web({ content }) {
   const [isReady, setIsReady] = useState(false);
 
   useEffect(() => {

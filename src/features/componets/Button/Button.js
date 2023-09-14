@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./Button.scss";
 
-export default function SubButton({ content }) {
+export default function Button({ content }) {
   const [isReady, setIsReady] = useState(false);
 
   useEffect(() => {
