@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.188f9855.css",
+    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.65e1d54b.js",
+    "static/media/agency.png": "/Pham_Huynh_Thien_Phung/static/media/agency.dca52a1aceb03aa3108c.png",
+    "static/media/exza.png": "/Pham_Huynh_Thien_Phung/static/media/exza.69252d310a7af629698a.png",
+    "static/media/avatar.jpg": "/Pham_Huynh_Thien_Phung/static/media/avatar.599f534e14fd88a765dd.jpg",
+    "index.html": "/Pham_Huynh_Thien_Phung/index.html",
+    "main.188f9855.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.188f9855.css.map",
+    "main.65e1d54b.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.65e1d54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188f9855.css",
+    "static/js/main.65e1d54b.js"
+  ]
+}
