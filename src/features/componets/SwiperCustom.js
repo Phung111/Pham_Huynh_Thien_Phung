@@ -77,7 +77,7 @@ export default function SwiperCustom({
       <div className="flex justify-center">
         <button
           onClick={() => swiperRef.current?.slidePrev()}
-          className="rounded bg-white/10 p-1 text-white hover:bg-black"
+          className="z-10 rounded bg-white/10 p-1 text-white hover:bg-black"
         >
           <FontAwesomeIcon icon="fa-solid fa-caret-left" />
         </button>
@@ -89,7 +89,7 @@ export default function SwiperCustom({
         </div>
         <button
           onClick={() => swiperRef.current?.slideNext()}
-          className="rounded bg-white/10 p-1 text-white hover:bg-black"
+          className="z-10 rounded bg-white/10 p-1 text-white hover:bg-black"
         >
           <FontAwesomeIcon icon="fa-solid fa-caret-right" />
         </button>
