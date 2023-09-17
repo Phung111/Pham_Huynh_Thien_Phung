@@ -5,7 +5,7 @@ import Menu from "./Menu";
 export default function Header() {
   return (
     <header className="relative z-10 w-full bg-transparent text-white">
-      <div className="container mx-auto">
+      <div className="container">
         <div className="flex h-14 gap-5">
           <div className="relative flex min-w-[300px] max-w-full shrink-0 justify-center">
             <div className="absolute top-0 flex flex-col items-center pt-2">

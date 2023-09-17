@@ -1,7 +1,7 @@
 export default function Name() {
   return (
-    <div className="flex w-full justify-center overflow-hidden text-center">
-      <div className="container">
+    <div className="container">
+      <div className="flex w-full flex-col justify-center overflow-hidden text-center">
         <p className="font-futirism text-[30px] font-bold uppercase text-white sm:text-[60px]">
           pham huynh thien phung
         </p>
