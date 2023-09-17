@@ -15,19 +15,19 @@ export default function Button({ content }) {
   }
 
   return (
-    <>
-      <div className="flex w-full flex-col gap-5">
-        <div className="flex justify-center">
-          <button className="button_1 rounded-lg bg-gray-500 px-9 py-5 font-semibold capitalize">
-            {`Button ${content.id}`}
-          </button>
-        </div>
-        <ul className="list-inside list-disc rounded-xl border border-dashed p-3">
-          {content.tecnology.map((item, index) => (
-            <li key={index}>{item}</li>
-          ))}
-        </ul>
+    <div className="flex h-full w-full flex-col justify-between gap-5 p-2">
+      <div className="flex justify-center">
+        <button
+          className={`button__${content.id} flex items-center justify-center rounded-lg border border-white bg-gray-500 px-9 py-5 font-semibold capitalize text-white transition ease-in-out`}
+        >
+          <span>{`Button ${content.id}`}</span>
+        </button>
       </div>
-    </>
+      <ul className="list-inside list-disc rounded-xl border border-dashed p-3">
+        {content.tecnology.map((item, index) => (
+          <li key={index}>{item}</li>
+        ))}
+      </ul>
+    </div>
   );
 }

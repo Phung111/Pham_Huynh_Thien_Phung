@@ -21,8 +21,8 @@ export default function Web({ content }) {
           <div className="flex flex-col gap-5">
             <div className="flex flex-col shadow-[7.5px_7.5px_0_0_rgba(0,0,0,0.5)]">
               <img
-                src={require("../../../assets/images/exza.png")}
-                alt="agency lading page"
+                src={require(`../../../assets/images/${content.nameImage}.png`)}
+                alt={content.nameImage}
               />
               <div className="flex items-center justify-center bg-black p-3">
                 <p className="capitalize text-white">{content.title}</p>

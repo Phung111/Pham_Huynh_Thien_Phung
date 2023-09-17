@@ -20,8 +20,6 @@ export default function SwiperCustom({
 }) {
   const swiperRef = useRef();
 
-  const el = ".swiper-custom-pagination-" + name;
-  const classNamePagination = "swiper-custom-pagination-" + name;
   let gridCustom = {};
   grid
     ? (gridCustom = {
@@ -49,7 +47,7 @@ export default function SwiperCustom({
             swiperRef.current = swiper;
           }}
           pagination={{
-            el: el,
+            el: `.swiper-custom-pagination-${name}`,
             dynamicBullets: true,
             clickable: true,
             renderBullet: function (index, className) {
@@ -84,7 +82,7 @@ export default function SwiperCustom({
         <div className="flex items-center justify-center ">
           {/* <div className="swiper-custom-pagination-web flex !translate-x-0 justify-center" /> */}
           <div
-            className={`${classNamePagination} flex !translate-x-0 justify-center`}
+            className={`swiper-custom-pagination-${name} flex !translate-x-0 justify-center`}
           />
         </div>
         <button
