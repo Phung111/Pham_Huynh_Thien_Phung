@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.11ed8afb.css",
-    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.972aff4f.js",
+    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.8c282ccf.css",
+    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.3eb37e4f.js",
     "static/media/bg.png": "/Pham_Huynh_Thien_Phung/static/media/bg.0fc0d9fb776ff5fd8f28.png",
     "static/media/agency.png": "/Pham_Huynh_Thien_Phung/static/media/agency.dca52a1aceb03aa3108c.png",
     "static/media/exza.png": "/Pham_Huynh_Thien_Phung/static/media/exza.69252d310a7af629698a.png",
     "static/media/avatar.jpg": "/Pham_Huynh_Thien_Phung/static/media/avatar.599f534e14fd88a765dd.jpg",
     "static/media/Futurism.otf": "/Pham_Huynh_Thien_Phung/static/media/Futurism.f541ffa7fe34e0b390cf.otf",
     "index.html": "/Pham_Huynh_Thien_Phung/index.html",
-    "main.11ed8afb.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.11ed8afb.css.map",
-    "main.972aff4f.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.972aff4f.js.map"
+    "main.8c282ccf.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.8c282ccf.css.map",
+    "main.3eb37e4f.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.3eb37e4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.11ed8afb.css",
-    "static/js/main.972aff4f.js"
+    "static/css/main.8c282ccf.css",
+    "static/js/main.3eb37e4f.js"
   ]
 }
