@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.62336b26.css",
-    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.4f081e05.js",
+    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.97f23860.css",
+    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.8021f816.js",
+    "static/media/decox design.png": "/Pham_Huynh_Thien_Phung/static/media/decox design.197b8464aedfef0885c5.png",
+    "static/media/bg2.png": "/Pham_Huynh_Thien_Phung/static/media/bg2.8b825f217b034dd139ae.png",
     "static/media/bg.png": "/Pham_Huynh_Thien_Phung/static/media/bg.0fc0d9fb776ff5fd8f28.png",
-    "static/media/agency.png": "/Pham_Huynh_Thien_Phung/static/media/agency.dca52a1aceb03aa3108c.png",
+    "static/media/studio design.png": "/Pham_Huynh_Thien_Phung/static/media/studio design.cfaa5c00c7cdc2401d61.png",
+    "static/media/dream agency.png": "/Pham_Huynh_Thien_Phung/static/media/dream agency.dca52a1aceb03aa3108c.png",
+    "static/media/w3schools.png": "/Pham_Huynh_Thien_Phung/static/media/w3schools.4d4ed4665ada8e75433d.png",
     "static/media/exza.png": "/Pham_Huynh_Thien_Phung/static/media/exza.69252d310a7af629698a.png",
     "static/media/avatar.jpg": "/Pham_Huynh_Thien_Phung/static/media/avatar.599f534e14fd88a765dd.jpg",
+    "static/media/construction company.png": "/Pham_Huynh_Thien_Phung/static/media/construction company.c72eab4d7d3b1693a73a.png",
     "static/media/Futurism.otf": "/Pham_Huynh_Thien_Phung/static/media/Futurism.f541ffa7fe34e0b390cf.otf",
     "index.html": "/Pham_Huynh_Thien_Phung/index.html",
-    "main.62336b26.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.62336b26.css.map",
-    "main.4f081e05.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.4f081e05.js.map"
+    "main.97f23860.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.97f23860.css.map",
+    "main.8021f816.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.8021f816.js.map"
   },
   "entrypoints": [
-    "static/css/main.62336b26.css",
-    "static/js/main.4f081e05.js"
+    "static/css/main.97f23860.css",
+    "static/js/main.8021f816.js"
   ]
 }
