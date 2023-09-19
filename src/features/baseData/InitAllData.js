@@ -1,15 +1,13 @@
 import Webs from "./Webs";
-import Buttons from "./Buttons";
 import JavaScripts from "./JavaScripts";
 import Projects from "./Projects";
-import Menus from "./Menus";
+import Others from "./Others";
 
 export default function InitAllData() {
   return (
     <>
       <Webs />
-      <Menus />
-      <Buttons />
+      <Others />
       <JavaScripts />
       <Projects />
     </>

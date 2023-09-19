@@ -4,19 +4,19 @@ import { setProjects } from "./BaseData";
 const projects = [
   {
     id: 1,
-    title: "w3schools",
+    title: "project 1",
     href: "#",
     tecnology: ["HTML", "CSS", "JS"],
   },
   {
     id: 2,
-    title: "w3schools2",
+    title: "project 2",
     href: "#",
     tecnology: ["HTML", "CSS", "JS"],
   },
   {
     id: 3,
-    title: "w3schools3",
+    title: "project 3",
     href: "#",
     tecnology: ["HTML", "CSS", "JS"],
   },

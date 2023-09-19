@@ -5,7 +5,7 @@ const namespace = "baseData";
 const initialState = {
   data: {
     webs: [],
-    menus: [],
+    others: [],
     javascripts: [],
     projects: [],
     buttons: [],
@@ -19,8 +19,8 @@ const baseData = createSlice({
     setWebs: (state, action) => {
       state.data.webs = action.payload;
     },
-    setMenus: (state, action) => {
-      state.data.menus = action.payload;
+    setOthers: (state, action) => {
+      state.data.others = action.payload;
     },
     setJavaScripts: (state, action) => {
       state.data.javascripts = action.payload;
@@ -28,13 +28,9 @@ const baseData = createSlice({
     setProjects: (state, action) => {
       state.data.projects = action.payload;
     },
-    setButtons: (state, action) => {
-      state.data.buttons = action.payload;
-    },
   },
 });
 
 const { reducer, actions } = baseData;
-export const { setWebs, setButtons, setJavaScripts, setProjects, setMenus } =
-  actions;
+export const { setWebs, setJavaScripts, setProjects, setOthers } = actions;
 export default reducer;

@@ -3,37 +3,33 @@ import { useSelector } from "react-redux";
 import Header from "../componets/Header/Header";
 import InitAllData from "../baseData/InitAllData";
 import Utils from "../../utils/Utils";
-import ContentCustom from "../componets/ContentCustom";
-import SubWeb from "../componets/Web/Web";
-import SubButton from "../componets/Button/Button";
 
-import Background from "./Background";
-import Name from "./Name";
+import Background from "../componets/Background";
+import Name from "../componets/Name";
+import Content from "../componets/Content";
+import Webs from "../componets/Webs/Webs";
+import Knowleadges from "../componets/Knowleadges";
+import Tools from "../componets/Tools";
+import Contact from "../componets/Contact";
 
 export default function Home() {
   const baseData = useSelector((state) => state.baseData.data);
   const webs = baseData.webs;
-  const buttons = baseData.buttons;
+  console.log("webs", webs);
+  const otherArray = webs.slice(0, webs.length - 2);
+  const latestArray = webs.slice(webs.length - 2, webs.length);
   return (
     <>
       <InitAllData />
       <Utils />
-      <div className="relative flex flex-col gap-24">
+      <div className="relative flex flex-col gap-28">
         <Background />
         <Header />
         <Name />
-        <ContentCustom
-          name={"web"}
-          data={webs}
-          latest={2}
-          componentContent={<SubWeb />}
-        />
-        <ContentCustom
-          name={"button"}
-          data={buttons}
-          latest={3}
-          componentContent={<SubButton />}
-        />
+        <Content name={"knowledge"} componentContent={<Knowleadges />} />
+        <Content name={"tools"} componentContent={<Tools />} />
+        <Content name={"webs"} componentContent={<Webs />} />
+        <Content name={"contact"} componentContent={<Contact />} />
       </div>
     </>
   );
