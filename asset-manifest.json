@@ -1,23 +1,40 @@
 {
   "files": {
-    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.51014703.css",
-    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.f602fb8b.js",
-    "static/media/decox design.png": "/Pham_Huynh_Thien_Phung/static/media/decox design.197b8464aedfef0885c5.png",
+    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.da0182c9.css",
+    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.6193915d.js",
+    "static/media/decox design.png": "/Pham_Huynh_Thien_Phung/static/media/decox design.9e13ffcc53d161d7f7f0.png",
     "static/media/bg2.png": "/Pham_Huynh_Thien_Phung/static/media/bg2.8b825f217b034dd139ae.png",
     "static/media/bg.png": "/Pham_Huynh_Thien_Phung/static/media/bg.0fc0d9fb776ff5fd8f28.png",
-    "static/media/studio design.png": "/Pham_Huynh_Thien_Phung/static/media/studio design.cfaa5c00c7cdc2401d61.png",
-    "static/media/dream agency.png": "/Pham_Huynh_Thien_Phung/static/media/dream agency.dca52a1aceb03aa3108c.png",
+    "static/media/123.png": "/Pham_Huynh_Thien_Phung/static/media/123.f3a5deffc1cf84192d86.png",
+    "static/media/studio design.png": "/Pham_Huynh_Thien_Phung/static/media/studio design.10fcb0c8d43a986ca71b.png",
+    "static/media/decox design2.png": "/Pham_Huynh_Thien_Phung/static/media/decox design2.e89d289b9f4adc554816.png",
+    "static/media/dream agency.png": "/Pham_Huynh_Thien_Phung/static/media/dream agency.de15abcd6fe8e5a1b647.png",
     "static/media/w3schools.png": "/Pham_Huynh_Thien_Phung/static/media/w3schools.4d4ed4665ada8e75433d.png",
-    "static/media/exza.png": "/Pham_Huynh_Thien_Phung/static/media/exza.69252d310a7af629698a.png",
+    "static/media/exza.png": "/Pham_Huynh_Thien_Phung/static/media/exza.fa1dc86ce280259b58a1.png",
+    "static/media/5.png": "/Pham_Huynh_Thien_Phung/static/media/5.b347c9b270eb237aba68.png",
     "static/media/avatar.jpg": "/Pham_Huynh_Thien_Phung/static/media/avatar.599f534e14fd88a765dd.jpg",
+    "static/media/exza2.png": "/Pham_Huynh_Thien_Phung/static/media/exza2.e002032ec8915af8839b.png",
+    "static/media/3.png": "/Pham_Huynh_Thien_Phung/static/media/3.01fece3f40cb09c1deab.png",
+    "static/media/10.png": "/Pham_Huynh_Thien_Phung/static/media/10.dd43f4ef072f72c74fbc.png",
     "static/media/construction company.png": "/Pham_Huynh_Thien_Phung/static/media/construction company.c72eab4d7d3b1693a73a.png",
+    "static/media/7.png": "/Pham_Huynh_Thien_Phung/static/media/7.faffc597e2088bcd4f57.png",
+    "static/media/4.png": "/Pham_Huynh_Thien_Phung/static/media/4.4174620d0b7b439b1940.png",
+    "static/media/9.png": "/Pham_Huynh_Thien_Phung/static/media/9.977b6d8a00f5d80b0113.png",
+    "static/media/6.png": "/Pham_Huynh_Thien_Phung/static/media/6.946f44216491fc75b6e7.png",
+    "static/media/8.png": "/Pham_Huynh_Thien_Phung/static/media/8.cffbccc31e492ebd0145.png",
+    "static/media/13.png": "/Pham_Huynh_Thien_Phung/static/media/13.d470d383adcffbb90fda.png",
     "static/media/Futurism.otf": "/Pham_Huynh_Thien_Phung/static/media/Futurism.f541ffa7fe34e0b390cf.otf",
+    "static/media/12.png": "/Pham_Huynh_Thien_Phung/static/media/12.9b9b7bda9eaa658173cf.png",
+    "static/media/11.png": "/Pham_Huynh_Thien_Phung/static/media/11.4a9f6e5c1357cde3fcc9.png",
+    "static/media/1.png": "/Pham_Huynh_Thien_Phung/static/media/1.d39cf92688e7b75e32fb.png",
+    "static/media/14.png": "/Pham_Huynh_Thien_Phung/static/media/14.63704508c4f05a9da9d0.png",
+    "static/media/2.png": "/Pham_Huynh_Thien_Phung/static/media/2.91e510c29c08826ba237.png",
     "index.html": "/Pham_Huynh_Thien_Phung/index.html",
-    "main.51014703.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.51014703.css.map",
-    "main.f602fb8b.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.f602fb8b.js.map"
+    "main.da0182c9.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.da0182c9.css.map",
+    "main.6193915d.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.6193915d.js.map"
   },
   "entrypoints": [
-    "static/css/main.51014703.css",
-    "static/js/main.f602fb8b.js"
+    "static/css/main.da0182c9.css",
+    "static/js/main.6193915d.js"
   ]
 }
