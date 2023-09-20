@@ -8,7 +8,7 @@ export default function Name() {
         <p className="font-futirism relative left-1/2 top-1/2 -translate-x-1/2 cursor-pointer text-center text-[30px] font-bold uppercase text-white transition ease-out hover:scale-105 sm:text-[60px]">
           pham huynh thien phung
         </p>
-        <div className="animate__animated animate__jackInTheBox">
+        <div className="animate__animated animate_on_scroll animate__fadeInUp">
           <p className="text-justify text-[10px] text-white sm:text-[20px]">
             <span className="inline-block w-[120px] sm:w-[240px]">
               <ReactTyped

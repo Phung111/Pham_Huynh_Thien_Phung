@@ -10,7 +10,7 @@ export default function Web({ content }) {
   return (
     <>
       <div
-        className="web cursor-pointer font-bold text-white"
+        className="web cursor-pointer font-bold text-white "
         onClick={openWebTab}
       >
         <WebOpenTab content={content} />

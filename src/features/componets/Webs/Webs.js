@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-
+import "animate.css";
 import Web from "./Web";
 
 export default function Webs() {

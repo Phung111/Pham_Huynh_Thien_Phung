@@ -9,7 +9,7 @@ export default function Tools() {
           .map((item, i) => (
             <div
               className={`animate__animated ${
-                i % 2 === 0 ? "animate__fadeInUp " : " "
+                i % 2 == 0 ? "animate_on_scroll " : " "
               }flex items-center justify-center `}
             >
               <img

@@ -9,8 +9,35 @@ import Webs from "../componets/Webs/Webs";
 import Contact from "../componets/Contact";
 import Knowleadges from "../componets/Knowleadges";
 import Tools from "../componets/Tools";
-
+import { useState, useEffect } from "react";
+import "animate.css";
 export default function Home() {
+  useEffect(() => {
+    const handleScroll = () => {
+      const targetElements = document.querySelectorAll(".animate_on_scroll");
+
+      targetElements.forEach((element) => {
+        const rect = element.getBoundingClientRect();
+        const windowHeight = window.innerHeight;
+
+        // Kiểm tra xem phần tử có nằm ngay giữa màn hình hay không
+        if (rect.top >= 0 && rect.bottom <= windowHeight) {
+          element.classList.add("animate__fadeInUp");
+        } else {
+          element.classList.remove("animate__fadeInUp");
+        }
+      });
+    };
+
+    // Thêm sự kiện scroll
+    window.addEventListener("scroll", handleScroll);
+
+    // Xóa sự kiện scroll khi component bị hủy
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
     <>
       <InitAllData />
