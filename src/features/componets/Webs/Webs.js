@@ -11,7 +11,7 @@ export default function Webs() {
   return (
     <>
       <h3 className="capitalize text-white">latest</h3>
-      <div className="grid w-1/2 grid-cols-2 gap-5">
+      <div className="grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
         {latestArray &&
           latestArray
             .slice(0)

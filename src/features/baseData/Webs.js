@@ -11,9 +11,8 @@ const webs = [
     source: "https://github.com/Phung111/W3Schools",
     type: "static",
     responsive: "full responsive",
-    time: "30 hour",
-    pageOnWeb:
-      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
+    time: "2 hour",
+    pageOnWeb: "",
     decription: "",
   },
   {
@@ -24,10 +23,9 @@ const webs = [
     href: "https://phung111.github.io/Construction_Company/",
     source: "https://github.com/Phung111/Construction_Company",
     type: "static",
-    responsive: "full responsive",
-    time: "30 hour",
-    pageOnWeb:
-      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
+    responsive: "",
+    time: "1 hour",
+    pageOnWeb: "",
     decription: "",
   },
   {
@@ -38,25 +36,23 @@ const webs = [
     href: "https://phung111.github.io/Studio_Design/",
     source: "https://github.com/Phung111/Studio_Design",
     type: "static",
-    responsive: "full responsive",
-    time: "30 hour",
-    pageOnWeb:
-      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
+    responsive: "",
+    time: "2 hour",
+    pageOnWeb: "",
     decription: "",
   },
   {
     id: 4,
     title: "dream agency",
     nameImage: "dream agency",
-    tecnology: "HTML, CSS",
+    tecnology: "HTML, CSS, JS, Animate.style",
     href: "https://phung111.github.io/Dream_Agency/",
     source: "https://github.com/Phung111/Dream_Agency",
     type: "static",
     responsive: "full responsive",
-    time: "30 hour",
-    pageOnWeb:
-      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
-    decription: "",
+    time: "5 hour",
+    pageOnWeb: "",
+    decription: "I build my own CSS",
   },
   {
     id: 5,
@@ -65,12 +61,12 @@ const webs = [
     tecnology: "HTML, CSS, JS, Swiper",
     href: "https://phung111.github.io/Decox_Design/",
     source: "https://github.com/Phung111/Decox_Design",
-    type: "static",
+    type: "dynamic",
     responsive: "full responsive",
-    time: "30 hour",
-    pageOnWeb:
-      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
-    decription: "",
+    time: "10 hour",
+    pageOnWeb: "Menu, Mẫu nhà đẹp",
+    decription:
+      "I try to build masonry layout, prepare json source for dynamic web",
   },
   {
     id: 6,
@@ -79,13 +75,12 @@ const webs = [
     tecnology: "HTML, CSS, JS, TailwindCSS",
     href: "https://phung111.github.io/Exza/",
     source: "https://github.com/Phung111/Exza",
-    type: "static",
+    type: "dynamic",
     responsive: "full responsive",
     time: "30 hour",
     pageOnWeb:
       "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
-    decription:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. asdasd asd asd sd sad",
+    decription: "Still dynamic web although source is json. Component reuse",
   },
 ];
 

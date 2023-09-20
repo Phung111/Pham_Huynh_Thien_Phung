@@ -9,7 +9,7 @@ const javaScrips = [
   },
   {
     id: 2,
-    title: "caculator",
+    title: "calculator",
     href: "#",
   },
 ];
