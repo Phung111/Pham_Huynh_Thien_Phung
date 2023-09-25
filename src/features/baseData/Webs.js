@@ -4,6 +4,32 @@ import { setWebs } from "./BaseData";
 const webs = [
   {
     id: 1,
+    title: "White Lotus Restaurant - Web App",
+    nameImage: "white-lotus-restaurant",
+    tecnology: "Java, React, Redux, API, SpringBoot, SQL, Ajax, Cloudinary",
+    href: "https://nhahangsentrang.top/",
+    source: "https://gitlab.com/dev4end/reactjs-white-lotus-restaurant",
+    type: "dynamic",
+    responsive: "",
+    time: "5 weeks",
+    pageOnWeb: "",
+    decription: "",
+  },
+  {
+    id: 2,
+    title: "White Lotus Restaurant - Dash Board",
+    nameImage: "white-lotus-restaurant-dashboard",
+    tecnology: "Java, API, SpringBoot, SQL, Ajax, Cloudinary",
+    href: "https://cp.nhahangsentrang.top/cp",
+    source: "https://gitlab.com/dev4end/spb-module-white-lotus-restaurant",
+    type: "dynamic",
+    responsive: "",
+    time: "5 weeks",
+    pageOnWeb: "",
+    decription: "",
+  },
+  {
+    id: 3,
     title: "w3schools",
     nameImage: "w3schools",
     tecnology: "HTML, CSS",
@@ -16,7 +42,7 @@ const webs = [
     decription: "",
   },
   {
-    id: 2,
+    id: 4,
     title: "construction company",
     nameImage: "construction company",
     tecnology: "HTML, CSS",
@@ -29,7 +55,7 @@ const webs = [
     decription: "",
   },
   {
-    id: 3,
+    id: 5,
     title: "studio design",
     nameImage: "studio design",
     tecnology: "HTML, CSS",
@@ -42,7 +68,7 @@ const webs = [
     decription: "",
   },
   {
-    id: 4,
+    id: 6,
     title: "dream agency",
     nameImage: "dream agency",
     tecnology: "HTML, CSS, JS, Animate.style",
@@ -55,7 +81,7 @@ const webs = [
     decription: "I build my own CSS",
   },
   {
-    id: 5,
+    id: 7,
     title: "decox design",
     nameImage: "decox design",
     tecnology: "HTML, CSS, JS, Swiper",
@@ -69,7 +95,7 @@ const webs = [
       "I try to build masonry layout, prepare json source for dynamic web",
   },
   {
-    id: 6,
+    id: 8,
     title: "exza",
     nameImage: "exza",
     tecnology: "HTML, CSS, JS, TailwindCSS",

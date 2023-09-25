@@ -71,7 +71,9 @@ export default function WebOpenTab({ content }) {
                   `../../../assets/images/${content.nameImage}_bg.png`,
                 )}
                 alt={content.nameImage}
+                className=""
               />
+
               <div className="flex flex-col gap-2">
                 <div className="flex gap-5">
                   <p className="flex w-28 shrink-0 capitalize">project</p>

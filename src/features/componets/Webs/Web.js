@@ -19,7 +19,7 @@ export default function Web({ content }) {
             <img
               src={require(`../../../assets/images/${content.nameImage}.png`)}
               alt={content.nameImage}
-              className="object-cover"
+              className="h-full w-full object-cover"
             />
             <div className="absolute h-full w-full bg-black/20 backdrop-blur-[2px]"></div>
           </div>

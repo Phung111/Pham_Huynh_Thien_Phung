@@ -10,26 +10,27 @@ export default function Name() {
         </p>
         <div className="animate__animated animate_on_scroll animate__fadeInUp">
           <p className="text-justify text-[10px] text-white sm:text-[20px]">
-            <span className="inline-block w-[120px] sm:w-[240px]">
+            <span className="inline-block w-[100px] sm:w-[200px]">
               <ReactTyped
-                strings={["I'm a Frontend Developer."]}
+                strings={["I'm a Web Developer."]}
                 typeSpeed={100}
                 loop
                 backSpeed={20}
                 showCursor={true}
               />
             </span>
-            I have the ability to design websites using Tailwind, JavaScript,
-            and ReactJS. I am capable of building frontend projects from scratch
+            I have the ability to design websites using JavaScript, ReactJS and
+            Tailwind. I am capable of building frontend projects from scratch
             and configuring frameworks on my own.
           </p>
           <p className="text-justify text-[10px] text-white sm:text-[20px]">
-            I have completed a 6-month coding bootcamp at CodeGym and dedicated
-            an additional 6 months to self-study and expand my knowledge.
+            I have completed a 6-month coding bootcamp at CodeGym to have a
+            basic understanding of Java and MySQL and dedicated an additional 6
+            months to self-study and expand my knowledge.
           </p>
           <p className="text-justify text-[10px] text-white sm:text-[20px]">
-            My short-term goal is to become a junior developer, and in the long
-            run, I aspire to become a leader developer to excel in this
+            My short-term goal is to become a Junior Developer, and in the long
+            run, I aspire to become a Leader Developer to excel in this
             industry.
           </p>
         </div>

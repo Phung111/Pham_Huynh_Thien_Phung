@@ -8,6 +8,7 @@ export default function Knowleadges() {
           .fill()
           .map((item, i) => (
             <div
+              key={i}
               className={`animate__animated ${
                 i % 2 == 0 ? "animate_on_scroll animate__fadeInUp" : " "
               }flex items-center justify-center `}
