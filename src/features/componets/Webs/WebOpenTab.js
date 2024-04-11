@@ -63,9 +63,9 @@ export default function WebOpenTab({ content }) {
           className="absolute right-10 top-10 text-4xl hover:text-cyan-500"
           onClick={closeOpenTab}
         />
-        <div className="mx-auto w-[600px]">
-          <div className="flex  bg-white/20 p-5">
-            <div className="flex flex-col gap-2">
+        <div className="mx-auto h-full max-w-[1000px] py-10">
+          <div className="flex h-full bg-white/20 p-5">
+            <div className="flex w-full flex-col justify-center gap-2">
               <img
                 src={require(
                   `../../../assets/images/${content.nameImage}_bg.png`,
@@ -97,7 +97,6 @@ export default function WebOpenTab({ content }) {
                 </div>
                 <div className="flex gap-5">
                   <p className="flex w-28 shrink-0 capitalize">decription</p>
-                  {/* <p className="">"{content.decription}"</p> */}
                   <p className="">
                     {content.decription ? `"${content.decription}"` : ``}
                   </p>

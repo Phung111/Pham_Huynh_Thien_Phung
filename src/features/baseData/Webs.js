@@ -108,6 +108,47 @@ const webs = [
       "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
     decription: "Still dynamic web although source is json. Component reuse",
   },
+  {
+    id: 9,
+    title: "ecommerce",
+    nameImage: "ecommerce",
+    tecnology: "HTML, CSS, JS, TailwindCSS",
+    href: "https://phung111.github.io/Exza/",
+    source: "https://github.com/Phung111/Exza",
+    type: "dynamic",
+    responsive: "full responsive",
+    time: "30 hour",
+    pageOnWeb:
+      "MotorMatic, HHOBD, Accessories, Support, Tecnical Specification, Comapre, Buy, Account, Login",
+    decription: "Still dynamic web although source is json. Component reuse",
+  },
+  {
+    id: 10,
+    title: "gosu",
+    nameImage: "gosu",
+    tecnology: "React, Redux, TailwindCSS, API, axios, change language",
+    href: "https://github.com/Phung111/gosu.git",
+    source: "https://phung111.github.io/gosu/",
+    type: "dynamic",
+    responsive: "full responsive",
+    time: "30 hour",
+    pageOnWeb: "WE ARE GOSU, LIFE AT GOSU, GOSU WORLD, GOSU NEWS",
+    decription: "Web doing while on intern at GOSU Online Corporation",
+  },
+  {
+    id: 11,
+    title: "clothshop",
+    nameImage: "clothshop",
+    tecnology:
+      "Java,React, Redux, TailwindCSS, API, RESTfulAPI, Axios, SpringBoot, Hibernate, JPA, Security, CORS, JWT",
+    href: "https://github.com/Phung111/clothshop_fe.git",
+    source: "https://github.com/Phung111/clothshop_be.git",
+    type: "dynamic",
+    responsive: "full responsive",
+    time: "6 month",
+    pageOnWeb: "",
+    decription: "",
+  },
 ];
 
 export default function Webs() {
