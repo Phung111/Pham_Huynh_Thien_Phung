@@ -123,7 +123,20 @@ const webs = [
     decription: "Still dynamic web although source is json. Component reuse",
   },
   {
-    id: 10,
+    id: 11,
+    title: "makotodecor",
+    nameImage: "makotodecor",
+    tecnology: "React, Redux, TailwindCSS, hosting, domain",
+    href: "https://github.com/Phung111/makotodecor.git",
+    source: "https://www.makotodecor.shop/",
+    type: "dynamic",
+    responsive: "1 pc and 1 mobile",
+    time: "10 hour",
+    pageOnWeb: "Home, Detail Product",
+    decription: "Web doing while on intern at GOSU Online Corporation",
+  },
+  {
+    id: 11,
     title: "gosu",
     nameImage: "gosu",
     tecnology: "React, Redux, TailwindCSS, API, axios, change language",
@@ -136,7 +149,7 @@ const webs = [
     decription: "Web doing while on intern at GOSU Online Corporation",
   },
   {
-    id: 11,
+    id: 12,
     title: "clothshop",
     nameImage: "clothshop",
     tecnology:
@@ -144,10 +157,10 @@ const webs = [
     href: "https://github.com/Phung111/clothshop_fe.git",
     source: "https://github.com/Phung111/clothshop_be.git",
     type: "dynamic",
-    responsive: "full responsive",
+    responsive: "1 pc screen only",
     time: "6 month",
     pageOnWeb: "",
-    decription: "",
+    decription: "My Primary Project Present",
   },
 ];
 
