@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.20efc4f2.css",
-    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.4fdcc8e1.js",
+    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.3cb0ece9.js",
     "static/media/decox design.png": "/Pham_Huynh_Thien_Phung/static/media/decox design.9e13ffcc53d161d7f7f0.png",
     "static/media/decox design_bg.png": "/Pham_Huynh_Thien_Phung/static/media/decox design_bg.230880767ed6c5c12b77.png",
     "static/media/bg2.png": "/Pham_Huynh_Thien_Phung/static/media/bg2.8b825f217b034dd139ae.png",
     "static/media/bg.png": "/Pham_Huynh_Thien_Phung/static/media/bg.0fc0d9fb776ff5fd8f28.png",
+    "static/media/makotodecor_bg.png": "/Pham_Huynh_Thien_Phung/static/media/makotodecor_bg.c67abd93a7ab0075cdb3.png",
     "static/media/gosu_bg.png": "/Pham_Huynh_Thien_Phung/static/media/gosu_bg.72b1b8f1aef7a02c5595.png",
     "static/media/studio design_bg.png": "/Pham_Huynh_Thien_Phung/static/media/studio design_bg.e6a23331ad3628998490.png",
     "static/media/ecommerce_bg.png": "/Pham_Huynh_Thien_Phung/static/media/ecommerce_bg.bbf69bd6c31177157657.png",
     "static/media/studio design.png": "/Pham_Huynh_Thien_Phung/static/media/studio design.10fcb0c8d43a986ca71b.png",
+    "static/media/makotodecor.png": "/Pham_Huynh_Thien_Phung/static/media/makotodecor.b863891b50da08151cab.png",
     "static/media/ecommerce.png": "/Pham_Huynh_Thien_Phung/static/media/ecommerce.03e501c0af86d1100fee.png",
     "static/media/gosu.png": "/Pham_Huynh_Thien_Phung/static/media/gosu.74848344d474baee3430.png",
     "static/media/white-lotus-restaurant-1.png": "/Pham_Huynh_Thien_Phung/static/media/white-lotus-restaurant-1.0c804099ffc3e3005f81.png",
@@ -64,10 +66,10 @@
     "static/media/2.png": "/Pham_Huynh_Thien_Phung/static/media/2.91e510c29c08826ba237.png",
     "index.html": "/Pham_Huynh_Thien_Phung/index.html",
     "main.20efc4f2.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.20efc4f2.css.map",
-    "main.4fdcc8e1.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.4fdcc8e1.js.map"
+    "main.3cb0ece9.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.3cb0ece9.js.map"
   },
   "entrypoints": [
     "static/css/main.20efc4f2.css",
-    "static/js/main.4fdcc8e1.js"
+    "static/js/main.3cb0ece9.js"
   ]
 }
